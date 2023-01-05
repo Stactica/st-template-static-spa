@@ -15,10 +15,10 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <h1 className="text-gradient font-bold text-4xl sm:text-4xl md:text-6xl">
-            Software Excellency
+            writing {"{"}code{"}"}
           </h1>
         </div>
-        <div className={styles.description}>To achieve your goals</div>
+        <div className={styles.description}>to build the world</div>
       </main>
       <Footer />
     </div>

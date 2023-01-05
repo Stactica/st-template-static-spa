@@ -8,7 +8,10 @@ export const Footer = () => {
   return (
     <footer className={styles.footer} style={{ flexDirection: "column" }}>
       <div>
-        &copy; {new Date().getFullYear()} {pkg.company.name}
+        <div>
+          &copy; {new Date().getFullYear()}{" "}
+          <a href={pkg.company.website}>{pkg.company.name}</a>
+        </div>
       </div>
       <div style={{ display: "flex" }}>
         <Link

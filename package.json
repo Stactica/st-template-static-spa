@@ -29,7 +29,8 @@
   "license": "MIT",
   "company": {
     "name": "Stactica",
-    "country": "The United States of America"
+    "country": "The United States of America",
+    "website": "https://www.stactica.com"
   },
   "contact": {
     "email": "info@stactica.com"

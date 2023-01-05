@@ -10,10 +10,10 @@ export const Logo = () => {
         alt="logo"
         src="https://v2.stactica.com/img/StacticaLogo.png"
         height={30}
-        width={311}
+        width={238}
         style={{
           height: "30px",
-          width: "311px",
+          width: "238px",
           transform: "translateY(-2px)",
         }}
       />
