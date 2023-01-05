@@ -48,6 +48,7 @@ a {
   background: -webkit-linear-gradient(
     60deg,
     var(--color-primary),
+    var(--color-primary),
     var(--color-secondary)
   );
   -webkit-background-clip: text;
@@ -58,6 +59,7 @@ a {
   background: -webkit-linear-gradient(
     60deg,
     var(--color-secondary),
+    var(--color-primary),
     var(--color-primary)
   );
   -webkit-background-clip: text;

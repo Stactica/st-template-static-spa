@@ -3,6 +3,7 @@ import { Header } from "../components/Header/Header";
 import { Footer } from "../components/Footer/Footer";
 import { GenericHead } from "../components/GenericHead";
 import { Spotlights } from "../components/Spotlights/Spotlights";
+import pkg from "../package.json";
 
 export default function About() {
   return (
@@ -19,9 +20,9 @@ export default function About() {
         </p>
         <p className={styles.description}>
           Reach out to{" "}
-          <a href="mailto:shain@stactica.com">
+          <a href={`mailto:${pkg.contact.email}`}>
             👋{" "}
-            <span className="text-gradient font-bold">shain@stactica.com</span>{" "}
+            <span className="text-gradient font-bold">{pkg.contact.email}</span>{" "}
             to get in touch.
           </a>
         </p>
