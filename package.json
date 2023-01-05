@@ -1,7 +1,7 @@
 {
   "name": "st-template-static-spa",
   "version": "0.1.0",
-  "private": true,
+  "author": "Shain Lafazan",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
