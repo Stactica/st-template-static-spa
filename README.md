@@ -1,20 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Stactica Template Static SPA
 
 ![Build Status](https://github.com/Stactica/st-template-static-spa/actions/workflows/nextjs.yml/badge.svg?branch=main)
 
-[Demo](https://stactica.github.io/st-template-static-spa)
+Check out the [demo application](https://stactica.github.io/st-template-static-spa).
+
+## Requirements
+
+- Node v18
+- pnpm
+
+> Note: if you don't have pnpm, you will need to install it
+
+```bash
+npm i -g pnpm
+```
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
+pnpm install
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Routes
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
