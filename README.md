@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![Build Status](https://github.com/Stactica/st-template-static-spa/actions/workflows/nextjs.yml/badge.svg?branch=main)
 
-![Demo](https://stactica.github.io/st-template-static-spa)
+[Demo](https://stactica.github.io/st-template-static-spa)
 
 ## Getting Started
 
