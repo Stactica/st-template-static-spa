@@ -1,5 +1,5 @@
 {
-  "name": "cartesianblockchain.com",
+  "name": "st-template-static-spa",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,6 +17,26 @@
     "next": "13.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "sass": "^1.57.1",
     "typescript": "4.9.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4"
+  },
+  "company": {
+    "name": "Stactica",
+    "country": "The United States of America"
+  },
+  "domains": [
+    "stactica.com",
+    "www.stactica.com",
+    "blog.stactica.com",
+    "training.stactica.com"
+  ],
+  "termsOfService": {
+    "effectiveDate": "1-4-2023"
   }
 }
