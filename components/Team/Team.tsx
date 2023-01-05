@@ -84,7 +84,7 @@ export const Team = () => {
               height={150}
               width={150}
               alt="Shain"
-              src="/shain-lafazan.jpeg"
+              src="https://shainlafazan.com/shain.png"
               style={{
                 borderRadius: "50%",
                 height: "150px",
